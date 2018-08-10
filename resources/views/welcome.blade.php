@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">11111111111133哈哈哈哈或或或或或或或或Hello Laravel! - by Summer</div>
+                <div class="title">或或Hello Laravel! - by Summer</div>
             </div>
         </div>
     </body>
